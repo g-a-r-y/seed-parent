@@ -13,4 +13,8 @@ public class DiscoveryApp {
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryApp.class, args);
 	}
+
+	public void method2() {
+		System.out.println("method2");
+	}
 }
