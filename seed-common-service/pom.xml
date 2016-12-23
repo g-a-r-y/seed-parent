@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>seed-discovery-service</artifactId>
+    <artifactId>seed-common-service</artifactId>
 
     <dependencies>
         <dependency>
